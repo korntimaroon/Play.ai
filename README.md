@@ -6,7 +6,7 @@ Download Here: https://github.com/korntimaroon/Play.ai/releases/tag/v1.0.0
  
 ## (*****Window and Linux*****) Launch Date 23 Nov
 
-Download Here: 
+Linux Download Here: https://github.com/korntimaroon/Play.ai/releases/tag/v1.0.0
 
 ## Features
 
