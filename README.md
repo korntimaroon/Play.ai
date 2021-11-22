@@ -1,6 +1,6 @@
 # PlayAI V1.0.0
 
-## (*****Only Support MacOS*****) Launch Date 22 Nov
+## (*****MacOS*****) Launch Date 22 Nov
 
 Download Here: https://github.com/korntimaroon/Play.ai/releases/tag/v1.0.0
  
