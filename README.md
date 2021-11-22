@@ -1,5 +1,5 @@
 # PlayAI
 
-## (Only Support MacOS) - 
+## (*****Only Support MacOS*****)
 
-## (For Window and Linux）
+Download Here: 
