@@ -20,4 +20,11 @@ Linux Download Here: https://github.com/korntimaroon/Play.ai/releases/tag/v1.0.0
 
 - Video to text (v.1.1.0 Future)
 
+## Visit PlayAI Website
+
+Link:https://www.playai.com
+
+## 1.1.0 Update
+
+10 March 2022
 
